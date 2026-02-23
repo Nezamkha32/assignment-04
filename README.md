@@ -23,9 +23,9 @@ querySelectorAll selects all matching elements using CSS selector and returns a 
 We use document.createElement() to create a new element.
 Then we use appendChild() or append() to insert it into the DOM.
 
-Example:
-const div = document.createElement("div");
-div.innerText = "Hello";
+Example:<br>
+const div = document.createElement("div");<br>
+div.innerText = "Hello";<br>
 document.body.appendChild(div);
 
 ## - 4. What is Event Bubbling? And how does it work?
