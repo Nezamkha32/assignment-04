@@ -17,7 +17,7 @@ querySelectorAll selects all matching elements using CSS selector and returns a 
 
 ## - 3. How do you create and insert a new element into the DOM?
 
-     Answers to the Questions no-01
+     Answers to the Questions no-03
      ==============================
 
 We use document.createElement() to create a new element.
@@ -30,7 +30,7 @@ document.body.appendChild(div);
 
 ## - 4. What is Event Bubbling? And how does it work?
 
-     Answers to the Questions no-01
+     Answers to the Questions no-04
      ==============================
 
 
